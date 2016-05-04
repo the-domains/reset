@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "What's Next?"
-datePublished: '2016-05-04T21:28:42.508Z'
-dateModified: '2016-05-04T21:25:23.835Z'
+datePublished: '2016-05-04T21:32:45.349Z'
+dateModified: '2016-05-04T21:32:33.769Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-whats-next.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: whats-next/index.html
 _type: Article
 
