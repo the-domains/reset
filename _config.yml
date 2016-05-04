@@ -1,0 +1,28 @@
+name: RESET
+favicon: null
+layout_spectrum: 0.6266767024062574
+typography_spectrum: 0.7985599664971232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09141502575948834
+  lightness: 0.16434865933842957
+  saturation: 0.02411659387871623
+  rhythmicContrast: 0.7284444475080818
+purpose: []
