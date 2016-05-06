@@ -1,7 +1,7 @@
 name: RESET
 favicon: null
 layout_spectrum: 0.99101
-typography_spectrum: 0.7985599664971232
+typography_spectrum: 0.43521
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0.7284444475080818
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
