@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "What's Next?"
-datePublished: '2016-05-06T19:38:31.207Z'
-dateModified: '2016-05-06T19:38:30.817Z'
+datePublished: '2016-05-07T17:58:40.293Z'
+dateModified: '2016-05-07T12:22:21.363Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-whats-next.md
