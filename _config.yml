@@ -1,7 +1,7 @@
 name: RESET
 favicon: null
-layout_spectrum: 0.99101
-typography_spectrum: 0.43521
+layout_spectrum: 1
+typography_spectrum: 0.30883
 cta:
   domain: null
   bucket: null
