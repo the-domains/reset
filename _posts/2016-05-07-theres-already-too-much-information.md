@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Think of all the blahblahblah about \"being happy.\" We are not offering 5-step programs to happiness. That would assume there's something wrong with you."
-datePublished: '2016-05-07T17:57:10.840Z'
-dateModified: '2016-05-07T17:00:50.509Z'
-title: "There's Already Too Much Information"
+datePublished: '2016-05-07T22:02:04.464Z'
+dateModified: '2016-05-07T19:06:31.761Z'
+title: 'Too Much  '
 author: []
 authors: []
 publisher:
@@ -21,7 +21,11 @@ url: theres-already-too-much-information/index.html
 _type: Article
 
 ---
-# There's Already Too Much Information
+# Too Much 
+
+# Too Little
+
+Not Helpf
 
 Think of all the blahblahblah about "being happy." We are not offering 5-step programs to happiness. That would assume there's something wrong with you.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6132ca-11c2-464d-a495-9da1f97824f4.jpg)
