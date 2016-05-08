@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Think of all the blahblahblah about \"being happy.\" We are not offering 5-step programs to happiness. That would assume there's something wrong with you."
-datePublished: '2016-05-07T22:02:04.464Z'
-dateModified: '2016-05-07T19:06:31.761Z'
-title: 'Too Much  '
+datePublished: '2016-05-08T20:11:28.723Z'
+dateModified: '2016-05-08T20:11:26.920Z'
+title: 'Too Much '
 author: []
 authors: []
 publisher:
@@ -25,7 +25,7 @@ _type: Article
 
 # Too Little
 
-Not Helpf
+# Not Helpful
 
 Think of all the blahblahblah about "being happy." We are not offering 5-step programs to happiness. That would assume there's something wrong with you.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6132ca-11c2-464d-a495-9da1f97824f4.jpg)
