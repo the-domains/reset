@@ -4,7 +4,7 @@
         <description><![CDATA[RESET]]></description>
         <link>https://thegrid.ai/reset/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 22:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 20:11:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reset/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sat, 07 May 2016 17:59:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Too Much ]]></title>
+            <description><![CDATA[<article><h1>Too Much </h1><p>Think of all the blahblahblah about "being happy." We are not offering 5-step programs to happiness. That would assume there's something wrong with you.</p></article>]]></description>
+            <link>https://thegrid.ai/reset/theres-already-too-much-information/index.html</link>
+            <guid isPermaLink="false">eb4bfa2c-05a1-4783-a7fa-73d00bf09a72</guid>
+            <pubDate>Sun, 08 May 2016 20:11:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aad36ba-fdc5-47dc-b290-fee38ee60f44.jpg">]]></description>
             <link>https://thegrid.ai/reset/have-one-of-these-in-your-house/index.html</link>
             <guid isPermaLink="false">4063e066-5431-41e5-981e-cad76c1d12e6</guid>
             <pubDate>Sat, 07 May 2016 22:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Too Much ]]></title>
-            <description><![CDATA[<article><h1>Too Much </h1><p>Think of all the blahblahblah about "being happy." We are not offering 5-step programs to happiness. That would assume there's something wrong with you.</p></article>]]></description>
-            <link>https://thegrid.ai/reset/theres-already-too-much-information/index.html</link>
-            <guid isPermaLink="false">eb4bfa2c-05a1-4783-a7fa-73d00bf09a72</guid>
-            <pubDate>Sat, 07 May 2016 22:02:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
