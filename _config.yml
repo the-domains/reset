@@ -1,19 +1,4 @@
-name: RESET
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.30883
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.375
   saturation: 0.875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: RESET
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: NOBODY CAN DO WHAT YOU DO
 purpose: []
