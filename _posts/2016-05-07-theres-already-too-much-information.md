@@ -1,36 +1,35 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: "Think of all the blahblahblah about \"being happy.\" We are not offering 5-step programs to happiness. That would assume there's something wrong with you."
-datePublished: '2016-05-08T20:11:28.723Z'
-dateModified: '2016-05-08T20:11:26.920Z'
-title: 'Too Much '
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-22T19:31:36.197Z'
 sourcePath: _posts/2016-05-07-theres-already-too-much-information.md
-url: theres-already-too-much-information/index.html
-_type: Article
+inFeed: true
+isBasedOnUrl: null
+authors: []
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T19:31:35.652Z'
+title: Too Much
+publisher: {}
+description: >-
+  Think of all the blahblahblah about "being happy." We are not offering 5-step
+  programs to happiness. That would assume there's something wrong with you.
+inLanguage: null
+inNav: false
+starred: false
+_type: Blurb
 
 ---
-# Too Much 
-
-# Too Little
-
-# Not Helpful
+# Too Much
 
 Think of all the blahblahblah about "being happy." We are not offering 5-step programs to happiness. That would assume there's something wrong with you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6132ca-11c2-464d-a495-9da1f97824f4.jpg)
 
-There isn't. 
+There isn't. You're good. And nobody's 5-step anything is the cure to make you a better person. It's all a lie, by an industry obsessed with draining your purse and wallet of the money that's been so hard to come by. 
+
+We're not self-help. we're a partner in your success. Make up your own 5-step plan. Now we're with you.
+
+# Too Little, Not Helpful
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a657f30c61d0f5576483561aa91495ac1fb1546.jpg)
 
 You are helping yourself, but this ain't self-help. We are professionals, not prophets.
 
