@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: John Scott
+  email: JScott@academyart.edu
+  url: johnscottstories.com
 name: RESET
 cta:
   domain: null
