@@ -1,4 +1,3 @@
-layout_spectrum: 0.786987938452512
 typography_spectrum: 0.6116445744410157
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.786987938452512
 analytics:
   google: null
   facebook: null
@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: John Scott Stories
+    url: johnscottstories.com
+    type: external
 favicon: null
 title: NOBODY CAN DO WHAT YOU DO
 purpose: []
